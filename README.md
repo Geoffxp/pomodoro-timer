@@ -6,7 +6,7 @@ This program was made using react and twtter bootstrap.
 The project was my first major asignment with React given to me in my Thinkful class.
 I learned a lot about state management and asynchronous coding and got more experience with bootstrap as well.
 The program has a single page design but is responsive both to inputs and sizing to some degree.  
-- Some of the sizing responsiveness needs to tweaked  currently -
+- Some of the sizing responsiveness needs to tweaked  currently
 
 ## What is a Pomodoro Timer?
 
